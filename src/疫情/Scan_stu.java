@@ -1,16 +1,12 @@
 package า฿ว้;
 
 import java.awt.*;  
-
- 
-  
 import java.awt.event.*;  
   
 import javax.swing.*;  
 import javax.swing.table.*;
 
 import า฿ว้.Query; 
-
 public class Scan_stu extends JPanel implements ActionListener{
 	 DefaultTableModel update_table;  
 	    JTable table;  

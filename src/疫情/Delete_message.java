@@ -6,7 +6,6 @@ import javax.swing.*;
 
 import า฿ว้.Query;  
 
-
 public class Delete_message extends JPanel implements ActionListener{
 	Box box1,box2,baseBox;  
     Query query;  

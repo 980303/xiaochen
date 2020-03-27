@@ -1,6 +1,5 @@
 //查找学生信息的Search_stu函数
 package 疫情;
-
 import java.awt.*;  
 import java.awt.event.*;  
 import javax.swing.*;  

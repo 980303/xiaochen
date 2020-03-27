@@ -1,12 +1,10 @@
 //修改学生信息的Update_stu函数
 package 疫情;
-
 import java.awt.*;  
 import java.awt.event.*;  
 import javax.swing.*;
 
 import 疫情.Query;  
-
 
 public class Update_stu extends JPanel implements ActionListener{
 	Box box1,box2,baseBox;  
