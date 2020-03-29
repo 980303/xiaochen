@@ -1,13 +1,12 @@
 package า฿ว้;
-
 import java.sql.*;  
 import javax.swing.*;  
 import java.awt.*;  
 import java.awt.event.*;  
 import java.awt.Color; 
 
+
 public class LLogin {
-	
 	 public static void main(String[] args) {  
 	        new loginFrame();   
 	    }  	  

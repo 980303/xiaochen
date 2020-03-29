@@ -1,5 +1,4 @@
 package า฿ว้;
-
 import java.awt.Font;
 import org.jfree.chart.ChartFactory;
 import org.jfree.chart.ChartPanel;

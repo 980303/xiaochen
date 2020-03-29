@@ -1,10 +1,8 @@
 //²éÕÒº¯Êı
 package ÒßÇé;
-
 import javax.swing.*;  
 
 import java.sql.*;  
-
 
 public class Search extends JFrame{
 	 String tableName;  

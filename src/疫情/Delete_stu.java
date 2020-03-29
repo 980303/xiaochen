@@ -1,12 +1,10 @@
 //删除学生信息函数
 package 疫情;
-
 import java.awt.*;  
 import java.awt.event.*;  
 import javax.swing.*;
 
 import 疫情.Query; 
-
 public class Delete_stu extends JPanel implements ActionListener{
 	Box box1,box2,baseBox;  
     Query query;  

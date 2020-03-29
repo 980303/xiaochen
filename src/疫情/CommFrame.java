@@ -1,9 +1,6 @@
 //一个集合所有窗口的卡片式布局，称为CommFrame
 package 疫情;
-
 import javax.swing.*;  
-
- 
 import java.awt.*;  
 import java.awt.event.*; 
 

@@ -1,11 +1,9 @@
 package า฿ว้;
-
 import java.awt.*;  
 import java.awt.event.*;  
 import javax.swing.*;
 
 import า฿ว้.Query;  
-
 public class Insert_message extends JPanel implements ActionListener{
 	Box box1,box2,baseBox;  
     Query query;  

@@ -8,7 +8,6 @@ import javax.swing.table.DefaultTableModel;
 
 import า฿ว้.Query;  
 
-
 public class Search_message extends JPanel implements ActionListener{
 	Box box[],baseBox;  
     Query query;  

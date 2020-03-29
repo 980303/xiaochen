@@ -1,9 +1,6 @@
 package า฿ว้;
-
 import javax.swing.*;  
-
 import java.sql.*;  
-
 
 public class Update extends JFrame{
 	String tableName;  

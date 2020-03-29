@@ -1,11 +1,8 @@
 //调用的删除函数：Delete
 package 疫情;
-
 import javax.swing.*;  
 
 import java.sql.*;  
-
-
 public class Delete extends JFrame{
 	 String tableName;  
 	    JTextField field[]=null;  

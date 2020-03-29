@@ -1,11 +1,7 @@
 //调用的添加函数Insert
 package 疫情;
-
 import javax.swing.*;
-
 import java.sql.*;  
-
-
 public class Insert extends JFrame{
 	  String tableName;  
 	    JTextField field[]=null;  

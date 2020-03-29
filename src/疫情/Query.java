@@ -1,9 +1,6 @@
 package 疫情;
 //Scan_stu调用的Query查找函数
-
-
 import java.sql.*; 
-
 public class Query {
 	 Object a[][]=null;  
 	    String b[]=null;  
